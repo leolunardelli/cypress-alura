@@ -1,5 +1,5 @@
-![cypress logo](https://user-images.githubusercontent.com/102632902/215105759-9b5caa53-984b-41b8-a343-c24dac7e6fd3.svg)
+![cypress-io-logos-idyrT1-xjS](https://user-images.githubusercontent.com/102632902/215106184-6b5c37f7-7dfb-4ce3-8293-c533f01782de.svg)
 
 <h1 align="center"> E2E tests on a photo Website using Cypress </h1>
 
-Testando as funcionalidades do site como login, upload de fotos, curtidas dentre outras funcionalidades.
+Testing the Website's features such as login, photo upload, likes and other features.
